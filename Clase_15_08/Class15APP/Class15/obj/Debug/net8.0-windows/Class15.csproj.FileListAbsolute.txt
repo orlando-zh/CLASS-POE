@@ -1,0 +1,16 @@
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\bin\Debug\net8.0-windows\Class15.exe
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\bin\Debug\net8.0-windows\Class15.deps.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\bin\Debug\net8.0-windows\Class15.runtimeconfig.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\bin\Debug\net8.0-windows\Class15.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\bin\Debug\net8.0-windows\Class15.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\obj\Debug\net8.0-windows\Class15.MainForm.resources
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\obj\Debug\net8.0-windows\Class15.csproj.GenerateResource.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\obj\Debug\net8.0-windows\Class15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\obj\Debug\net8.0-windows\Class15.AssemblyInfoInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\obj\Debug\net8.0-windows\Class15.AssemblyInfo.cs
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\obj\Debug\net8.0-windows\Class15.csproj.CoreCompileInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\obj\Debug\net8.0-windows\Class15.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\obj\Debug\net8.0-windows\refint\Class15.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\obj\Debug\net8.0-windows\Class15.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\obj\Debug\net8.0-windows\Class15.genruntimeconfig.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\Clase_15_08\Class15APP\Class15\obj\Debug\net8.0-windows\ref\Class15.dll

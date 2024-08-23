@@ -1,0 +1,16 @@
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.exe
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.deps.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.runtimeconfig.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\bin\Debug\net8.0-windows\Ejercicio2.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.Form1.resources
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.AssemblyInfo.cs
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\obj\Debug\net8.0-windows\refint\Ejercicio2.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\obj\Debug\net8.0-windows\Ejercicio2.genruntimeconfig.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Programación Orientada a Eventos\TAREA1\Ejercicio2APP\Ejercicio2\obj\Debug\net8.0-windows\ref\Ejercicio2.dll
