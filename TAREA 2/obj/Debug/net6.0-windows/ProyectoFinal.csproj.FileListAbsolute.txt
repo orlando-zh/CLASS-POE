@@ -1,0 +1,84 @@
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form1.resources
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\jonam\OneDrive\Documentos\Curso C#\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form1.resources
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Form1.resources
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.sourcelink.json
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\Orlando Zúniga\Desktop\proyect copi\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\obj\Debug\net6.0-windows\ProyectoFinal.Form1.resources
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\Orlando Zúniga\Desktop\Proyect POE\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\ProyectoFinal.Form1.resources
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\ProyectoFinal.sourcelink.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\TAREA 2\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
