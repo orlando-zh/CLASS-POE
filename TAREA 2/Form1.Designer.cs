@@ -46,40 +46,41 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            label1.Font = new Font("Arial Rounded MT Bold", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label1.Location = new Point(73, 31);
             label1.Name = "label1";
-            label1.Size = new Size(85, 28);
+            label1.Size = new Size(89, 23);
             label1.TabIndex = 0;
             label1.Text = "Nombre";
+            label1.Click += label1_Click;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            label2.Font = new Font("Arial Rounded MT Bold", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label2.Location = new Point(73, 84);
             label2.Name = "label2";
-            label2.Size = new Size(86, 28);
+            label2.Size = new Size(89, 23);
             label2.TabIndex = 1;
             label2.Text = "Apellido";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            label3.Font = new Font("Arial Rounded MT Bold", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label3.Location = new Point(73, 141);
             label3.Name = "label3";
-            label3.Size = new Size(86, 28);
+            label3.Size = new Size(95, 23);
             label3.TabIndex = 2;
             label3.Text = "Telefono";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            label4.Font = new Font("Arial Rounded MT Bold", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label4.Location = new Point(73, 195);
             label4.Name = "label4";
-            label4.Size = new Size(72, 28);
+            label4.Size = new Size(79, 23);
             label4.TabIndex = 3;
             label4.Text = "Correo";
             // 
@@ -118,35 +119,41 @@
             // 
             // btnNuevo
             // 
+            btnNuevo.BackColor = SystemColors.ActiveBorder;
+            btnNuevo.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnNuevo.Location = new Point(778, 28);
             btnNuevo.Margin = new Padding(3, 4, 3, 4);
             btnNuevo.Name = "btnNuevo";
             btnNuevo.Size = new Size(86, 67);
             btnNuevo.TabIndex = 8;
             btnNuevo.Text = "Nuevo";
-            btnNuevo.UseVisualStyleBackColor = true;
+            btnNuevo.UseVisualStyleBackColor = false;
             btnNuevo.Click += btnNuevo_Click;
             // 
             // btnGuardar
             // 
+            btnGuardar.BackColor = SystemColors.ActiveBorder;
+            btnGuardar.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnGuardar.Location = new Point(778, 103);
             btnGuardar.Margin = new Padding(3, 4, 3, 4);
             btnGuardar.Name = "btnGuardar";
             btnGuardar.Size = new Size(86, 67);
             btnGuardar.TabIndex = 9;
             btnGuardar.Text = "Guardar";
-            btnGuardar.UseVisualStyleBackColor = true;
+            btnGuardar.UseVisualStyleBackColor = false;
             btnGuardar.Click += btnGuardar_Click;
             // 
             // btnEliminar
             // 
+            btnEliminar.BackColor = SystemColors.ActiveBorder;
+            btnEliminar.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnEliminar.Location = new Point(778, 177);
             btnEliminar.Margin = new Padding(3, 4, 3, 4);
             btnEliminar.Name = "btnEliminar";
             btnEliminar.Size = new Size(86, 67);
             btnEliminar.TabIndex = 10;
             btnEliminar.Text = "Eliminar";
-            btnEliminar.UseVisualStyleBackColor = true;
+            btnEliminar.UseVisualStyleBackColor = false;
             btnEliminar.Click += btnEliminar_Click;
             // 
             // dgvDatos
@@ -170,6 +177,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.LightSteelBlue;
             ClientSize = new Size(883, 577);
             Controls.Add(dgvDatos);
             Controls.Add(btnEliminar);

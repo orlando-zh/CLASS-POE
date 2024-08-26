@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WGjlWyqDpwI=",
+  "dgSpecHash": "USmRM+6H40Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\Orlando Zúniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\TAREA 2\\ProyectoFinal.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Orlando Zúniga\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\Orlando Zúniga\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\Orlando Zúniga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\Orlando Zúniga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
