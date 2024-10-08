@@ -1,5 +1,4 @@
-﻿using Microsoft.Data.SqlClient;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,12 +12,7 @@ namespace DataAccessLayer.DbConnection
 
         public SqlDataAccess()
         {
-            _connectionString = "Data Source=LAPTOP-KFDQNCRJ\\SQLEXPRESS;Initial Catalog=ClinicDB;Integrated Security=True;Encrypt=False";
-        }
-
-        public SqlConnection GetConnection()
-        {
-            return new SqlConnection(_connectionString);
+            _connectionString = "Data Source=ENVY\\SQLEXPRESS;Initial Catalog=ClinicDB;Integrated Security=True;Encrypt=False";
         }
     }
 }

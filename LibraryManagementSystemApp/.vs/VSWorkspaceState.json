@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LibraryManagementSystemData",
+    "\\LibraryManagementSystemUI",
+    "\\LibraryManagementSystemUI\\bin",
+    "\\LibraryManagementSystemUI\\Forms"
   ],
-  "SelectedNode": "\\LibraryManagementSystemApp.sln",
+  "SelectedNode": "\\LibraryManagementSystemData",
   "PreviewInSolutionExplorer": false
 }
