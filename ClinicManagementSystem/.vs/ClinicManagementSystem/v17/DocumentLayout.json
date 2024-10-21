@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A8BF4-ED42-434F-AD68-5AC8D9294493}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\orlando z\u00FAniga\\documents\\uni\\u20230405-orlando\\ciclo 4\\class-poe-repo\\clinicmanagementsystem\\dataaccesslayer\\repositories\\doctors\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A8BF4-ED42-434F-AD68-5AC8D9294493}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\doctors\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2D33F1-43BA-4965-8644-C62EB21B1339}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\orlando z\u00FAniga\\documents\\uni\\u20230405-orlando\\ciclo 4\\class-poe-repo\\clinicmanagementsystem\\businesslayer\\services\\doctors\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2D33F1-43BA-4965-8644-C62EB21B1339}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\doctors\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2D33F1-43BA-4965-8644-C62EB21B1339}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\orlando z\u00FAniga\\documents\\uni\\u20230405-orlando\\ciclo 4\\class-poe-repo\\clinicmanagementsystem\\businesslayer\\services\\doctors\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2D33F1-43BA-4965-8644-C62EB21B1339}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\doctors\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A8BF4-ED42-434F-AD68-5AC8D9294493}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\orlando z\u00FAniga\\documents\\uni\\u20230405-orlando\\ciclo 4\\class-poe-repo\\clinicmanagementsystem\\dataaccesslayer\\repositories\\doctors\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A8BF4-ED42-434F-AD68-5AC8D9294493}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\doctors\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A8BF4-ED42-434F-AD68-5AC8D9294493}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\orlando z\u00FAniga\\documents\\uni\\u20230405-orlando\\ciclo 4\\class-poe-repo\\clinicmanagementsystem\\dataaccesslayer\\dbconnection\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A8BF4-ED42-434F-AD68-5AC8D9294493}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbconnection\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A8BF4-ED42-434F-AD68-5AC8D9294493}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\orlando z\u00FAniga\\documents\\uni\\u20230405-orlando\\ciclo 4\\class-poe-repo\\clinicmanagementsystem\\dataaccesslayer\\dbconnection\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A8BF4-ED42-434F-AD68-5AC8D9294493}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbconnection\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\BusinessLayer\\Services\\Doctors\\DoctorService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Doctors\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\BusinessLayer\\Services\\Doctors\\DoctorService.cs*",
+              "RelativeToolTip": "BusinessLayer\\Services\\Doctors\\DoctorService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:32:14.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\BusinessLayer\\Services\\Doctors\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Doctors\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\BusinessLayer\\Services\\Doctors\\IDoctorService.cs*",
+              "RelativeToolTip": "BusinessLayer\\Services\\Doctors\\IDoctorService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:29:14.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\DataAccessLayer\\Repositories\\Doctors\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\Doctors\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\DataAccessLayer\\Repositories\\Doctors\\IDoctorRepository.cs*",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\Doctors\\IDoctorRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:16:22.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\DataAccessLayer\\Repositories\\Doctors\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\Doctors\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\DataAccessLayer\\Repositories\\Doctors\\DoctorRepository.cs*",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\Doctors\\DoctorRepository.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:14:35.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\DataAccessLayer\\DbConnection\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DbConnection\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\DataAccessLayer\\DbConnection\\SqlDataAccess.cs*",
+              "RelativeToolTip": "DataAccessLayer\\DbConnection\\SqlDataAccess.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:11:48.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\DataAccessLayer\\DbConnection\\ISqlDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DbConnection\\ISqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\ClinicManagementSystem\\DataAccessLayer\\DbConnection\\ISqlDataAccess.cs*",
+              "RelativeToolTip": "DataAccessLayer\\DbConnection\\ISqlDataAccess.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:10:51.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
