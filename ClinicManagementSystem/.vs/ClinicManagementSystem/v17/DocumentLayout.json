@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\orlando z\u00FAniga\\desktop\\clinicmanagementsystem\\presentationlayer\\forms\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\orlando z\u00FAniga\\desktop\\clinicmanagementsystem\\presentationlayer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\presentationlayer\\forms\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\presentationlayer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\orlando z\u00FAniga\\desktop\\clinicmanagementsystem\\presentationlayer\\forms\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\orlando z\u00FAniga\\desktop\\clinicmanagementsystem\\presentationlayer\\forms\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEA21AC-0AA0-439E-BF55-BA81F018D50F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\DoctorForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\DoctorForm.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\DoctorForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\Forms\\DoctorForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:12:01.229Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\PatientForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\PatientForm.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\PatientForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PresentationLayer\\Forms\\PatientForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:51:59.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:51:52.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientForm.cs",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\PatientForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\PatientForm.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\PatientForm.cs",
+              "RelativeToolTip": "PresentationLayer\\Forms\\PatientForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:51:28.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorForm.cs",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\DoctorForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\DoctorForm.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\DoctorForm.cs",
+              "RelativeToolTip": "PresentationLayer\\Forms\\DoctorForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:51:11.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Desktop\\ClinicManagementSystem\\PresentationLayer\\Forms\\MainForm.cs",
+              "RelativeToolTip": "PresentationLayer\\Forms\\MainForm.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:51:12.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
