@@ -25,7 +25,17 @@ namespace BussisnesLayer.Services
 
         public void AddCar(Car car)
         {
-            _carsRepository.AddCar(car);
+            // Check if Car with carId exists
+            if (_carsRepository.CarExists(car.CarID))
+            {
+                // Car exists, proceed with insertion
+                _carsRepository.AddCar(car);
+            }
+            else
+            {
+                // Car doesn't exist, handle error
+                Console.WriteLine("Error: Car with ID {0} not found. Cannot add car.", car.CarID);
+            }
         }
 
         public void EditCar(Car car)

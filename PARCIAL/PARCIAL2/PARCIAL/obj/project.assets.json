@@ -1745,11 +1745,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orlando Zúniga\\Desktop\\PARCIAL\\PARCIAL2\\PARCIAL\\PresentationLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Orlando Zúniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\PARCIAL\\PARCIAL2\\PARCIAL\\PresentationLayer.csproj",
       "projectName": "PresentationLayer",
-      "projectPath": "C:\\Users\\Orlando Zúniga\\Desktop\\PARCIAL\\PARCIAL2\\PARCIAL\\PresentationLayer.csproj",
+      "projectPath": "C:\\Users\\Orlando Zúniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\PARCIAL\\PARCIAL2\\PARCIAL\\PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\Orlando Zúniga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orlando Zúniga\\Desktop\\PARCIAL\\PARCIAL2\\PARCIAL\\obj\\",
+      "outputPath": "C:\\Users\\Orlando Zúniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\PARCIAL\\PARCIAL2\\PARCIAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Orlando Zúniga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1766,8 +1766,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Orlando Zúniga\\Desktop\\PARCIAL\\PARCIAL2\\BussisnesLayer\\BussisnesLayer.csproj": {
-              "projectPath": "C:\\Users\\Orlando Zúniga\\Desktop\\PARCIAL\\PARCIAL2\\BussisnesLayer\\BussisnesLayer.csproj"
+            "C:\\Users\\Orlando Zúniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\PARCIAL\\PARCIAL2\\BussisnesLayer\\BussisnesLayer.csproj": {
+              "projectPath": "C:\\Users\\Orlando Zúniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\CLASS-POE-REPO\\PARCIAL\\PARCIAL2\\BussisnesLayer\\BussisnesLayer.csproj"
             }
           }
         }

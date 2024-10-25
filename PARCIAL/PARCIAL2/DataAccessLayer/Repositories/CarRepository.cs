@@ -42,23 +42,40 @@ namespace DataAccessLayer.Repositories
         }
 
         // Método para agregar un nuevo carro
+
         public void AddCar(Car car)
         {
             using (var connection = _dbConnection.GetConnection())
             {
-                string query = @"INSERT INTO Car (Model, Price) 
-                             VALUES (@Model, @Price)";
-
-                using (var sqlCommand = new SqlCommand(query, connection))
+                try
                 {
-                    connection.Open();
-                    sqlCommand.Parameters.AddWithValue("@Model", car.Model);
-                    sqlCommand.Parameters.AddWithValue("@Price", car.Price);
-
-                    sqlCommand.ExecuteNonQuery();
+                    // Verificar si el CarID ya existe
+                    if (!CarExists(car.CarID))
+                    {
+                        // CarID no existe, proceder con la inserción
+                        string insertQuery = @"INSERT INTO Car (Model, Price)
+                                               VALUES (@Model, @Price)";
+                        using (SqlCommand insertCommand = new SqlCommand(insertQuery, connection))
+                        {
+                            connection.Open();
+                            insertCommand.Parameters.AddWithValue("@Model", car.Model);
+                            insertCommand.Parameters.AddWithValue("@Price", car.Price);
+                            insertCommand.ExecuteNonQuery();
+                        }
+                    }
+                    else
+                    {
+                        throw new InvalidOperationException("El CarID ya existe. No se puede agregar el carro.");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    // Manejo de excepciones
+                    Console.WriteLine("Error al agregar el carro: " + ex.Message);
                 }
             }
         }
+
 
         // Método para eliminar un carro por ID
         public void DeleteCar(int carId)
@@ -82,9 +99,9 @@ namespace DataAccessLayer.Repositories
             using (var connection = _dbConnection.GetConnection())
             {
                 string query = @"UPDATE Car
-                             SET Model = @Model,
-                                 Price = @Price
-                             WHERE CarID = @CarID";
+                                 SET Model = @Model,
+                                     Price = @Price
+                                 WHERE CarID = @CarID";
 
                 using (var sqlCommand = new SqlCommand(query, connection))
                 {
@@ -97,6 +114,20 @@ namespace DataAccessLayer.Repositories
                 }
             }
         }
+
+        public bool CarExists(int carId)
+        {
+            using (var connection = _dbConnection.GetConnection())
+            {
+                string query = "SELECT COUNT(*) FROM Car WHERE CarID = @CarID";
+                using (var sqlCommand = new SqlCommand(query, connection))
+                {
+                    sqlCommand.Parameters.AddWithValue("@CarID", carId);
+                    connection.Open();
+                    int count = (int)sqlCommand.ExecuteScalar();
+                    return count > 0;
+                }
+            }
+        }
     }
 }
-

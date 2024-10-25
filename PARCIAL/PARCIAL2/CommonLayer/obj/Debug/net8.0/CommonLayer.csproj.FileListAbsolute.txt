@@ -20,3 +20,15 @@ C:\Users\Orlando Zúniga\Desktop\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\C
 C:\Users\Orlando Zúniga\Desktop\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
 C:\Users\Orlando Zúniga\Desktop\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
 C:\Users\Orlando Zúniga\Desktop\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\CommonLayer.sourcelink.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
