@@ -32,3 +32,4 @@ C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\
 C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
 C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
 C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\CLASS-POE-REPO\PARCIAL\PARCIAL2\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.AssemblyReference.cache

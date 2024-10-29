@@ -348,6 +348,9 @@
         }
       },
       "CommonLayer/1.0.0": {
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "5.2.2"
+        },
         "runtime": {
           "CommonLayer.dll": {}
         }
